@@ -15,7 +15,7 @@ The following criteria demonstrate the areas in which my skills from this progra
 ## Awareness Training
 
 
-## Database and Systems Security
+## Network, Database, and Systems Security
 
 
 ## Analysis with MITRE Att&ck Framework and Lockheed Martin Cyber Kill Chain
@@ -27,5 +27,9 @@ The following criteria demonstrate the areas in which my skills from this progra
 ## Organizational Security
 
 
-## Summary
+
+## Forensics
+
+
+## Ethics
 
