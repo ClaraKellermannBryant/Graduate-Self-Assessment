@@ -13,7 +13,7 @@ In the penetration testing category, I was tasked with conducting social enginee
 Both qualitative and quantitative assessments should be used to evaluate likelihoods in a variety of criteria. Moreover, tools such as Nmap that executes different scans or Greenbone OpenVAS can be used for detecting vulnerabilities. What I have currently learned is that cost-benefit analyses which fit in this category are related to consequentialist ethical frameworks as well.
 
 ## Awareness Training
-
+I learned that both intentional and unintentional threats can negatively impact an organization. Malicious insiders, disgruntled employees, economic espionage, tailgating attacks, increased workplace stress, alcoholism, and illness may contribute to such threats. Instead of punishing employees, I learned how to provide room for employee mistakes that they can learn from. Likewise, gamification and incentivization are key components for providing effective security awareness training. 
 
 ## Network, Database, and Systems Security
 
