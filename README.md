@@ -32,4 +32,4 @@ The origins of network security I studied comprised of the OSI Model and the TCP
 
 
 ## Ethics
-
+In my preceding background, I understood ethics to be comprised of security best practices and policy creation. From this perspective, we were concerned with the 'how' for attacks but disregarded the 'why'. However, I have now learned that the 'why' and human motives are just as significant, as they are derived from utilitarianism, consequentialism, deontology, and virtue ethics. We can now see that malicious actors have a social construct in their own way of behaving and take pleasure in committing cybercrime.
