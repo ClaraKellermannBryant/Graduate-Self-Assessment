@@ -16,7 +16,7 @@ Both qualitative and quantitative assessments should be used to evaluate likelih
 I learned that both intentional and unintentional threats can negatively impact an organization. Malicious insiders, disgruntled employees, economic espionage, tailgating attacks, increased workplace stress, alcoholism, and illness may contribute to such threats. Instead of punishing employees, I learned how to provide room for employee mistakes that they can learn from. Likewise, gamification and incentivization are key components for providing effective security awareness training. 
 
 ## Network, Database, and Systems Security
-
+The origins of network security I studied comprised of the OSI Model and the TCP/IP Protocol Suite. I then learned how packet traffic is intercepted, the most safe internet protocols to use, network configuration, and the algorithms implemented into network security. For example, the OSPF protocol uses Dijkstra's algorithm, and so do the traceroute/tracert commands with the use of graphs. 
 
 ## Analysis with MITRE Att&ck Framework and Lockheed Martin Cyber Kill Chain
 
