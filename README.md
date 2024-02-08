@@ -1,6 +1,6 @@
 # Graduate-Self-Assessment
 
-# Cybersecurity MS Program
+# Cybersecurity Programs
 
 Within the Cybersecurity MS Program at SNHU, I had attained knowledge on cyberlaw, telecommunications, systems engineering, information assurance, cryptography, network defense, incident management and response, as well as digital forensics. These disciplines have assisted me in understanding security fundamentals that I have placed into practice. After my first master's program, I have matriculated in the MPS Cybersecurity Risk Management Program at Georgetown University, which continues to shape my perspective on cyber as a whole.
 
