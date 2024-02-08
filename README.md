@@ -18,6 +18,10 @@ I learned that both intentional and unintentional threats can negatively impact 
 ## Network, Database, and Systems Security
 The origins of network security I studied comprised of the OSI Model and the TCP/IP Protocol Suite. I then learned how packet traffic is intercepted, the most safe internet protocols to use, network configuration, and the algorithms implemented into network security. For example, the OSPF protocol uses Dijkstra's algorithm, and so do the traceroute/tracert commands with the use of graphs. 
 
+I learned database security through mitigating privilege escalation, security-by-design for CRUD operations, security best practices, and how database security aligns with the CIA triad.
+
+For systems security, I studied secure systems engineering using security-by-design with use case diagrams, sequence diagrams, UML, class diagrams, state transition diagrams, and context diagrams. I applied systems engineering fundamentals to accommodate vertical and horizontal applications as well. 
+
 ## Analysis with MITRE Att&ck Framework and Lockheed Martin Cyber Kill Chain
 
 
