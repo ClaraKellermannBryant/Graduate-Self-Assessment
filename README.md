@@ -33,7 +33,7 @@ For systems security, I studied secure systems engineering using security-by-des
 
 
 ## Forensics
-
+I obtained knowledge on best practices such as chain of evidence, chain of custody, and handling conflicting consent. In addition, I gained an understanding of the Digital Forensics Framework, Sleuth Kit, and hands-on skills with Autopsy. 
 
 ## Ethics
 In my preceding background, I understood ethics to be comprised of security best practices and policy creation. From this perspective, we were concerned with the 'how' for attacks but disregarded the 'why'. However, I have now learned that the 'why' and human motives are just as significant, as they are derived from utilitarianism, consequentialism, deontology, and virtue ethics. We can now see that malicious actors have a social construct in their own way of behaving and take pleasure in committing cybercrime.
